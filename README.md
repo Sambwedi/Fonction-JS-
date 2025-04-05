@@ -1,6 +1,6 @@
 # Fonction-JS-
 Index.js
-nction sommeOuTriple(a, b) {
+function sommeOuTriple(a, b) {
     let somme = a + b;
     return (a === b) ? somme * 3 : somme;
 }
